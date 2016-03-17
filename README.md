@@ -94,7 +94,7 @@ Part4：文序（文章篇章结构）
 （建议将以下页面添加书签以便及时取用）
 
 - [认知写作学二期课程 FAQ · Issue #23](https://github.com/OpenMindClub/Writer002/issues/23)，课程期间会在这个 Issue 持续汇总常见问题，有困难可先查阅这个 Issue
-- 开智学堂 APP Web 版地址：http://OpenMindClub.com 
+- 开智学堂 APP Web 版地址：http://OpenMindClub.com
 - 开智学堂直播答疑地址：http://live.OpenMindClub.com
 - GitHub 课程讨论地址：https://github.com/OpenMindClub/Writer002/issues
 - GitHub 提交开智学堂 APP Bug 地址：https://github.com/openmindclub/omc.app/issues
@@ -154,7 +154,6 @@ Part4：文序（文章篇章结构）
         * `0wd1` 为 3.12 当周第一天,即 160307
 
 
-## CHANGELOG 
+## CHANGELOG
 
 - 160303 闪闪发布在课程学员仓库
-
